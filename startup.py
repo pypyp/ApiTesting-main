@@ -52,3 +52,4 @@ if __name__ == '__main__':
     # # 生成allure报告
     # cmd = 'allure generate --clean %s -o %s ' % (REPORT_DIR+'/xml', REPORT_DIR+'/html')
     # os.system(cmd)
+print(222)
