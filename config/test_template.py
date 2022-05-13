@@ -29,3 +29,4 @@ class TestTemplate:
         code, data = send_request(test_info, test_case)
         # 校验接口返回
         check_result(test_case, code, data)
+print(1)
