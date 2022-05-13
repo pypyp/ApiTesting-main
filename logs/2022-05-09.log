@@ -1,0 +1,43 @@
+2022-05-09 14:41:58,936 - startup.py - INFO: 根据接口抓包数据，自动生成测试用例和测试脚本，然后运行测试！
+2022-05-09 14:41:58,936 - writeCaseYml.py - INFO: 读取抓包文件主目录: C:/Users/zf/Downloads/ApiTesting-main/PyDemo/data
+2022-05-09 14:41:58,937 - writeCaseYml.py - INFO: 读取抓包文件: addAudltCard.chlsj
+2022-05-09 14:41:58,941 - writeCaseYml.py - INFO: 读取抓包文件: addOrUpCurBact.chlsj
+2022-05-09 14:41:58,943 - writeCaseYml.py - INFO: 读取抓包文件: findParam.chlsj
+2022-05-09 14:41:58,945 - writeCaseYml.py - INFO: 读取抓包文件: getAdultCurbactList.chlsj
+2022-05-09 14:41:58,949 - writeCaseYml.py - INFO: 读取抓包文件: initCanSelInfo.chlsj
+2022-05-09 15:26:35,873 - startup.py - INFO: 根据接口抓包数据，自动生成测试用例和测试脚本，然后运行测试！
+2022-05-09 15:26:36,864 - writeCaseYml.py - INFO: 读取抓包文件主目录: C:/Users/zf/Downloads/ApiTesting-main/PyDemo/data
+2022-05-09 15:26:36,866 - writeCaseYml.py - INFO: 读取抓包文件: addAudltCard.chlsj
+2022-05-09 15:26:36,884 - writeCaseYml.py - INFO: 读取抓包文件: addOrUpCurBact.chlsj
+2022-05-09 15:26:36,890 - writeCaseYml.py - INFO: 读取抓包文件: findParam.chlsj
+2022-05-09 15:26:36,896 - writeCaseYml.py - INFO: 读取抓包文件: getAdultCurbactList.chlsj
+2022-05-09 15:26:36,902 - writeCaseYml.py - INFO: 读取抓包文件: initCanSelInfo.chlsj
+2022-05-09 15:27:49,591 - startup.py - INFO: 根据接口抓包数据，自动生成测试用例和测试脚本，然后运行测试！
+2022-05-09 15:28:24,439 - writeCaseYml.py - INFO: 读取抓包文件主目录: C:/Users/zf/Downloads/ApiTesting-main/PyDemo/data
+2022-05-09 15:28:24,439 - writeCaseYml.py - INFO: 读取抓包文件: addAudltCard.chlsj
+2022-05-09 15:28:24,447 - writeCaseYml.py - INFO: 读取抓包文件: addOrUpCurBact.chlsj
+2022-05-09 15:28:24,454 - writeCaseYml.py - INFO: 读取抓包文件: findParam.chlsj
+2022-05-09 15:28:24,459 - writeCaseYml.py - INFO: 读取抓包文件: getAdultCurbactList.chlsj
+2022-05-09 15:28:24,465 - writeCaseYml.py - INFO: 读取抓包文件: initCanSelInfo.chlsj
+2022-05-09 15:42:51,469 - startup.py - INFO: 根据接口抓包数据，自动生成测试用例和测试脚本，然后运行测试！
+2022-05-09 15:43:10,174 - writeCaseYml.py - INFO: 读取抓包文件主目录: C:/Users/zf/Downloads/ApiTesting-main/PyDemo/data
+2022-05-09 15:44:14,725 - writeCaseYml.py - INFO: 读取抓包文件: addAudltCard.chlsj
+2022-05-09 15:46:59,000 - startup.py - INFO: 根据接口抓包数据，自动生成测试用例和测试脚本，然后运行测试！
+2022-05-09 15:47:02,562 - writeCaseYml.py - INFO: 读取抓包文件主目录: C:/Users/zf/Downloads/ApiTesting-main/PyDemo/data
+2022-05-09 15:47:03,952 - writeCaseYml.py - INFO: 读取抓包文件: addAudltCard.chlsj
+2022-05-09 15:48:41,477 - writeCaseYml.py - INFO: 读取抓包文件: addOrUpCurBact.chlsj
+2022-05-09 15:48:41,488 - writeCaseYml.py - INFO: 读取抓包文件: findParam.chlsj
+2022-05-09 15:48:41,496 - writeCaseYml.py - INFO: 读取抓包文件: getAdultCurbactList.chlsj
+2022-05-09 15:48:41,504 - writeCaseYml.py - INFO: 读取抓包文件: initCanSelInfo.chlsj
+2022-05-09 15:54:41,267 - startup.py - INFO: 根据接口抓包数据，自动生成测试用例和测试脚本，但不运行测试！
+2022-05-09 15:54:41,267 - writeCaseYml.py - INFO: 读取抓包文件主目录: C:/Users/zf/Downloads/ApiTesting-main/PyDemo/data
+2022-05-09 15:54:41,267 - writeCaseYml.py - INFO: 读取抓包文件: addAudltCard.chlsj
+2022-05-09 15:54:41,270 - writeCaseYml.py - INFO: 读取抓包文件: addOrUpCurBact.chlsj
+2022-05-09 15:54:41,272 - writeCaseYml.py - INFO: 读取抓包文件: findParam.chlsj
+2022-05-09 15:54:41,274 - writeCaseYml.py - INFO: 读取抓包文件: getAdultCurbactList.chlsj
+2022-05-09 15:54:41,276 - writeCaseYml.py - INFO: 读取抓包文件: initCanSelInfo.chlsj
+2022-05-09 15:55:08,145 - startup.py - INFO: 根据手工编写用例，自动生成测试脚本，然后运行测试！
+2022-05-09 15:55:49,087 - startup.py - INFO: 根据手工编写用例，自动生成测试脚本，然后运行测试！
+2022-05-09 15:56:16,549 - startup.py - INFO: 根据手工编写用例，自动生成测试脚本，然后运行测试！
+2022-05-09 15:59:09,204 - startup.py - INFO: 根据手工编写用例，自动生成测试脚本，然后运行测试！
+2022-05-09 15:59:33,450 - startup.py - INFO: 根据手工编写用例，自动生成测试脚本，然后运行测试！
