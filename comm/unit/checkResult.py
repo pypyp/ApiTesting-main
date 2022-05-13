@@ -258,3 +258,4 @@ def check_result(case_data, code, data):
                         check_database(actual[index], expected, mark+str(index))
                     except IndexError:
                         raise IndexError('校验数据库{}失败，期望结果超出实际条目！'.format(mark+str(index)))
+print(1)
